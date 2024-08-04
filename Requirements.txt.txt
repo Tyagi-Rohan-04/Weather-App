@@ -1,0 +1,8 @@
+pip install tkinter
+pip install geopy
+pip install timezonefinder
+pip install datetime
+pip install requests
+pip install pytz
+
+access to the "openweathermap.org" API key to access and fetch the details of the current weather details in json format.
